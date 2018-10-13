@@ -23,3 +23,11 @@ Things you may want to cover:
 
 * ...
 # File-Storage-Site
+
+Website to store and update files with sign in functionality. 
+
+Ruby version ruby 2.5.1p57 
+
+Using haml, simple_form and devise. 
+
+Two tables: users and docs.
